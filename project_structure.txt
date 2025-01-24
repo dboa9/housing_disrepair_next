@@ -1,0 +1,54 @@
+.
+├── app
+│   ├── api
+│   │   ├── auth
+│   │   │   ├── callback
+│   │   │   │   └── route.ts
+│   │   │   └── init
+│   │   │       └── route.ts
+│   │   ├── create-draft
+│   │   │   └── route.tsx
+│   │   ├── generate-refresh-token
+│   │   │   └── route.ts
+│   │   ├── send-email
+│   │   │   └── route.ts
+│   │   ├── send-email.js
+│   │   └── upload-file
+│   │       └── route.ts
+│   ├── components
+│   │   ├── EmailForm.tsx
+│   │   ├── GenerateRefreshTokenButton.tsx
+│   │   ├── InitialScreen.tsx
+│   │   ├── Preview.tsx
+│   │   └── SendEmailButton.tsx
+│   ├── favicon.ico
+│   ├── form
+│   │   └── page.tsx
+│   ├── globals.css
+│   ├── index.hrml
+│   ├── layout.tsx
+│   └── page.tsx
+├── emailjs-mime-builder.d.ts
+├── emailjs-mime-parser.d.ts
+├── .env.local
+├── eslint.config.mjs
+├── .gitignore
+├── next.config.ts
+├── next-env.d.ts
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── postcss.config.mjs
+├── project_structure.txt
+├── public
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── next.svg
+│   ├── vercel.svg
+│   └── window.svg
+├── README.md
+├── tailwind.config.js
+├── tailwind.config.ts
+└── tsconfig.json
+
+13 directories, 39 files
